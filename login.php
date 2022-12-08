@@ -30,15 +30,11 @@
     <link
             href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;1,200;1,400;1,600&display=swap"
             rel="stylesheet">
-    <!--    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">-->
-    <!--    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js">-->
-    <!--    <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">-->
     <title>Login-RoziKaAdda</title>
     <style>
         section.sec-1 {
             background: rgb(105, 105, 190);
             background: linear-gradient(90deg, rgba(105, 105, 190, 1) 8%, rgba(169, 168, 140, 1) 34%, rgba(84, 186, 164, 1) 59%, rgba(220, 161, 167, 1) 89%);
-            /*height: 75px !important;*/
         }
 
         img.sec-img-1 {
