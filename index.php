@@ -1396,7 +1396,7 @@
                                     </div>
                                     <div class="info">
                                         <p><a href="tel:+923219670105">+92 321-9670106</a></p>
-                                        <p><a href="tel:+923040805587">+92 304-0805587</a></p>
+                                        <p><a href="tel:+923040805587">+92 317-0805587</a></p>
                                     </div>
                                 </div>
                                 <div class="single_info">
